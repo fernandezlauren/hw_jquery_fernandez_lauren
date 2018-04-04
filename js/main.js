@@ -1,3 +1,3 @@
 $( document ).ready(function() {
-    console.log();
+    $('h2').last().text("I'm Lauren Fernandez, and I'm learning jQuery!");
 });
